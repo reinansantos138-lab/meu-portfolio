@@ -251,7 +251,7 @@ export default function Portfolio() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 divide-x divide-slate-100">
             <RevealSection delay={100} className="text-center px-4">
-              <div className="text-4xl font-bold text-[#0F2537] mb-2"><AnimatedNumber end={5} suffix="+" /></div>
+              <div className="text-4xl font-bold text-[#0F2537] mb-2"><AnimatedNumber end={2} suffix="+" /></div>
               <div className="text-sm font-medium text-slate-500 uppercase tracking-wider">Anos de Experiência</div>
             </RevealSection>
             <RevealSection delay={200} className="text-center px-4">
